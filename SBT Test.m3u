@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="Canais | SBT",SBT FHD 60 FPS
+http://aovivo.maissbt.com/index.m3u8
